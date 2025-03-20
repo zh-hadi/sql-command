@@ -1,0 +1,5 @@
+# how to see system all user
+SELECT name FROM sys.sql_logins;
+GO
+
+
